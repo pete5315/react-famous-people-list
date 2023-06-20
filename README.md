@@ -1,3 +1,5 @@
+In class assignment to practice using React with a server.
+
 # Famous People List
 
 Start with the code provided here. 
